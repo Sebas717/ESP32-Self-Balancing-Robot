@@ -29,7 +29,7 @@ float integral = 0.0;
 float output = 0.0;
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   Wire.begin();
   
   // Initialize Motor Pins
