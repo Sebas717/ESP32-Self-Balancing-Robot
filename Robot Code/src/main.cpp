@@ -22,7 +22,7 @@ float Kd = 0.5;
 float Ki = 0.0;
 
 // Variables
-float targetAngle = 0.0;
+float targetAngle = 3.0;
 float currentAngle = 0.0;
 float previousError = 0.0;
 float integral = 0.0;
