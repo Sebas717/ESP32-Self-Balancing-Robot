@@ -17,7 +17,7 @@ MPU6050 mpu6050(Wire);
 
 // --- PID CONSTANTS (THE TUNING KNOBS) ---
 // You will change these later to make it balance perfectly!
-float Kp = 10.0; 
+float Kp = 5.0; 
 float Kd = 0.5;
 float Ki = 0.0;
 
